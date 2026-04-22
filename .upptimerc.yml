@@ -5,8 +5,8 @@ repo: upptime # The name of this repository
 sites:
   - name: PenServices
     url: https://penumbrainc.service-now.com/sp
-  - name: Wikipedia
-    url: https://en.wikipedia.org
+  - name: SAP PRO
+    url: https://vhpnbwd3lb.hec.penumbrainc.com/sap/bc/ui5_ui5/ui2/ushell/shells/abap/FioriLaunchpad.html?sap-language=EN
   - name: Hacker News
     url: https://news.ycombinator.com
   - name: Test Broken Site
