@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 741,
-    "timeDay": 741,
-    "timeWeek": 741,
-    "timeMonth": 741,
-    "timeYear": 741,
+    "time": 666,
+    "timeDay": 666,
+    "timeWeek": 666,
+    "timeMonth": 666,
+    "timeYear": 666,
     "dailyMinutesDown": {}
   },
   {
@@ -23,18 +23,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/vhpnbwd3lb.hec.penumbrainc.com.ico",
     "slug": "sap-pro",
     "status": "down",
-    "uptime": "5.72%",
-    "uptimeDay": "5.72%",
-    "uptimeWeek": "5.72%",
-    "uptimeMonth": "5.72%",
-    "uptimeYear": "5.72%",
+    "uptime": "0.03%",
+    "uptimeDay": "0.03%",
+    "uptimeWeek": "0.03%",
+    "uptimeMonth": "0.03%",
+    "uptimeYear": "0.03%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-04-22": 0
+      "2026-04-22": 12
     }
   },
   {
@@ -48,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 247,
-    "timeDay": 247,
-    "timeWeek": 247,
-    "timeMonth": 247,
-    "timeYear": 247,
+    "time": 198,
+    "timeDay": 198,
+    "timeWeek": 198,
+    "timeMonth": 198,
+    "timeYear": 198,
     "dailyMinutesDown": {}
   },
   {
@@ -74,21 +74,23 @@
     "dailyMinutesDown": {}
   },
   {
-    "name": "IPv6 test",
-    "url": "forwardemail.net",
+    "name": "Penumbra NTP",
+    "url": "ntp.penumbrainc.com",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
-    "slug": "i-pv6-test",
+    "slug": "penumbra-ntp",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "1.88%",
+    "uptimeDay": "1.88%",
+    "uptimeWeek": "1.88%",
+    "uptimeMonth": "1.88%",
+    "uptimeYear": "1.88%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-04-22": 0
+    }
   }
 ]
